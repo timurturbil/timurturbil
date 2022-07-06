@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg) [stackoverflow](https://stackoverflow.com/users/14141494/timur-turbil)
+![image title](https://rushter.com/counter.svg) <a href="https://stackoverflow.com/users/14141494/timur-turbil" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 
 ### Hi there 👋, I am Timur 
 

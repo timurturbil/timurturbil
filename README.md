@@ -1,4 +1,4 @@
-![image title](https://rushter.com/counter.svg)
+![image title](https://rushter.com/counter.svg) [stackoverflow](https://stackoverflow.com/users/14141494/timur-turbil)
 
 ### Hi there 👋, I am Timur 
 

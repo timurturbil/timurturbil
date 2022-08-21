@@ -1,5 +1,3 @@
-![image title](https://rushter.com/counter.svg) 
-
 ### Hi there 👋, I am Timur 
 
 I am technology enthusiastic, want to learn things quickly and dive deep inside it. I always believe in developing logical things which makes impact on end user.
